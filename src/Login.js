@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import { Button, Col, Container, Form, Row } from 'react-bootstrap'
-import swal from 'sweetalert';
+//import swal from 'sweetalert';
 
-const config = require('./config.json');
+//const config = require('./config.json');
 
 export default function Login() {
     //1.states/hook variables
