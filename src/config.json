@@ -1,0 +1,5 @@
+{
+    "prod_api_url":"https://floating-castle-74071.herokuapp.com",
+    "dev_api_url":"http://localhost:1337"
+
+}
